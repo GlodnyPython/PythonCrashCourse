@@ -10,3 +10,10 @@ print(message)
 
 message = "Hello Python Crash Course world"
 print(message)
+
+print("=======================================")
+#Zadanie
+mess2 = ("Dzien Dobry")
+print(mess2)
+mess2 = ("Hello")
+print(mess2)
