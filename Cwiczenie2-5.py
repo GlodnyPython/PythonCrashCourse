@@ -1,1 +1,0 @@
-print('Arthur Shopenhauer one said, "Life is a business that does not cover the costs."')
