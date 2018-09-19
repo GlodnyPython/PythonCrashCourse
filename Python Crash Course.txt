@@ -1,4 +1,4 @@
-ostatnia strona: 39 (skończylem poprzednia)
+ostatnia strona: 40 (skończylem poprzednia)
 
 HelloWorld.py - Zmienne i drukowanie
 Name.py - Drukowanie zmiennych cd., tab i nowa linia w wyr reg, usuwanie bialych znakow z konca i poczatku zmiennej
